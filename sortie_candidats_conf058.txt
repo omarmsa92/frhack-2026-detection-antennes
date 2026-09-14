@@ -1,0 +1,9 @@
+==========================================================================
+  Recherche de candidats — 200 images, conf >= 0.58
+  Référentiel : 554 sites déclarés
+  Seuil de non-correspondance : 25 m
+==========================================================================
+
+  Aucune détection au-dessus de 0.58.
+  C'est un résultat recevable : le brief prévoit explicitement de
+  conclure qu'aucun candidat n'est suffisamment fiable.

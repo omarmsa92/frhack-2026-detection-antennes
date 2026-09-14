@@ -1,0 +1,8 @@
+# Fichier de configuration du dataset - généré par starter_antennes.py
+path: C:\Users\macms\Desktop\omar\data
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['antenne']
